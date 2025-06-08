@@ -1,0 +1,28 @@
+## Ignore arquivos de Vagrant
+.vagrant/
+
+# Ignore arquivos de log comuns
+*.log
+
+# Ignore chaves privadas, se houver
+*.pem
+*.key
+
+# Ignore arquivos temporários do sistema
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos de backup
+*.bak
+*.tmp
+
+# Ignore arquivos de configuração de IDEs comuns
+.idea/
+.vscode/
+*.code-workspace
+
+# Ignore arquivos de provisionamento específicos, se for o caso
+*.box
