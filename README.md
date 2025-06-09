@@ -24,7 +24,7 @@ Provisionar automaticamente um cluster Docker Swarm utilizando **Vagrant** e **V
 
 ---
 
-## 🚀 Como utilizar
+## 🚀 Como utilizar.  No prompt de comando, digite:
 
 1. **Clone este repositório:**
    ```bash
