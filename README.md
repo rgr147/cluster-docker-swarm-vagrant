@@ -38,7 +38,7 @@ Provisionar automaticamente um cluster Docker Swarm utilizando **Vagrant** e **V
 3. **Verifique o status do cluster. Acesse o nó master:** 
    ```bash
    vagrant ssh master
-   docker node ls
+   sudo docker node ls
 
 ## 📌 Tecnologias utilizadas
 
