@@ -28,7 +28,7 @@ Provisionar automaticamente um cluster Docker Swarm utilizando **Vagrant** e **V
 
 1. **Clone este repositório:**
    ```bash
-   git clone <URL-do-repositório>
+   git clone https://github.com/rgr147/cluster-docker-swarm-vagrant
    cd <nome-da-pasta>
 
 2. **Inicie o ambiente com Vagrant:**
